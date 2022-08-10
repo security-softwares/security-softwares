@@ -2,7 +2,7 @@
 
 - 👋 I'm @Privacy-toolkits Devloper
 - 👀 I’m interested in making Tools and Utilities
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++,JAVA appllication devlopment
 - 💞️ I’m looking to collaborate on opensource projects 
 - 📫 Find me on insta id alien_ghost_2025
 
