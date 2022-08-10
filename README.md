@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/Privacy-toolkits/Privacy-toolkits/main/GifInspo6.gif"></p>
+<p align="center"><img align="center" alt="Coding" width="10%" src="https://raw.githubusercontent.com/Privacy-toolkits/Privacy-toolkits/main/GifInspo6.gif"></p>
 
 - 👋 I'm @Privacy-toolkits Devloper
 - 👀 I’m interested in making Tools and Utilities
