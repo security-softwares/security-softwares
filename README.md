@@ -8,4 +8,4 @@
 It is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github.com/Privacy-toolkits/Privacy-toolkits/blob/main/AvNtCtu.mp4?raw=true)
+![](https://raw.githubusercontent.com/Privacy-toolkits/Privacy-toolkits/main/AvNtCtu.gif)
