@@ -1,11 +1,16 @@
 <p align="center"><img align="center" alt="Coding" width="90%" src="https://raw.githubusercontent.com/Privacy-toolkits/Privacy-toolkits/main/GifInspo6.gif"></p>
 
-- 👋 I'm @Privacy-toolkits Devloper
+- 👨🏽‍💻 I'm @Privacy-toolkits Devloper
+
 - 👀 I’m interested in making Tools and Utilities
-- 🌱 I’m currently learning C++,JAVA appllication devlopment
-- 💞️ I’m looking to collaborate on opensource projects 
+
+- 🔥 I'm currently learning JAVA appllication devlopment
+
+- 🌱 I’m looking to collaborate on opensource projects 
+
 - 📫 Find me on insta id alien_ghost_2025
 
+▄︻̷̿┻̿═━一
 <!---
 It is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
