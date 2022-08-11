@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="security tools" width="90%" src="https://raw.githubusercontent.com/security-essentials/security-essentials/main/ezgif.com-gif-maker.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/security-essentials/security-essentials/main/security-catalyst.gif" height="40%" width="40%"></p>
 
 - 👨🏽‍💻 I'm @Privacy-toolkits Devloper
 
