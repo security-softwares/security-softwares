@@ -1,6 +1,6 @@
 
 # Security Essentials
-<p align="center"><img src="https://raw.githubusercontent.com/security-essentials/security-essentials/main/security-catalyst.gif" height="40%" width="40%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/security-essentials/security-essentials/main/security-catalyst.gif" height="70%" width="90%"></p>
 
 
 - 👨🏽‍💻 I'm @security-essentials security tools Devloper
