@@ -13,7 +13,7 @@
 
 - 📫 Find me on insta id alien_ghost_2025
 
-▄︻̷̿┻̿═━一   <p align="justify"><img src="https://raw.githubusercontent.com/security-essentials/security-essentials/main/digital-security-lock-1940x1455.jpg" height="40%" width="40%"></p>
+▄︻̷̿┻̿═━一   <p align="justify"><img src="https://raw.githubusercontent.com/security-essentials/security-essentials/main/110929453.jpg" height="40%" width="40%"></p>
 <!---
 It is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
